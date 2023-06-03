@@ -1,0 +1,10 @@
+h1 {
+    font-weight: 800;
+    font-size: clamp(2rem, 10vw, 3rem);
+  }
+  
+  h3 {
+    font-weight: 800;
+    font-size: 40px;
+  
+  }

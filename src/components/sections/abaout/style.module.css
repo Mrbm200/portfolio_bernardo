@@ -1,0 +1,16 @@
+.section1{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 3rem;
+}
+
+.h33{
+    width: 200rem;
+}
+
+.spann{
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: 12rem;
+}
+

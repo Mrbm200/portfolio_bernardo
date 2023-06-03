@@ -1,0 +1,22 @@
+.section__final{
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    padding-bottom: 5rem;
+}
+
+.h11{
+    font-weight: 800;
+    font-size: 40px;
+}
+
+.span11{
+    font-weight: 400;
+    font-size: 16px;
+    display: flex;
+    justify-content: end;
+    margin: 0rem;
+}
+
+section>img {
+    margin: 0.7rem;
+}
